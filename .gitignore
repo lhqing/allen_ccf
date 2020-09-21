@@ -1,0 +1,7 @@
+
+.DS_Store
+StructureTree/.ipynb_checkpoints/*
+python/.ipynb_checkpoints/ref space-checkpoint.ipynb
+python/.ipynb_checkpoints/Ave template-checkpoint.ipynb
+*.nrrd
+*.itksnap
